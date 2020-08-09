@@ -1,0 +1,16 @@
+{
+  "name": "@types/kpc-react",
+  "version": "1.4.2",
+  "description": "types for kpc-react",
+  "main": "",
+  "keywords": [
+    "kpc-react",
+    "types"
+  ],
+  "types": "index",
+  "author": "zhangshuyuan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.45"
+  }
+}
